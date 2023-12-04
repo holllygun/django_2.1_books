@@ -1,0 +1,38 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "name": "Война и мир",
+      "author": "Л.Н. Толстой",
+      "pub_date": "2018-02-27"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "1984",
+      "author": "Джордж Оруэл",
+      "pub_date": "2016-12-06"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "name": "451 градус по Фаренгейту",
+      "author": "Рэй Брэдбери",
+      "pub_date": "2017-11-05"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "name": "Мертвые души",
+      "author": "Николай Гоголь",
+      "pub_date": "2013-10-07"
+    }
+  }
+]
